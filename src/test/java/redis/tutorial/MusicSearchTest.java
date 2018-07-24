@@ -44,5 +44,5 @@ public class MusicSearchTest {
 
     assertThat(result, contains(ARTIST_ELTON_JOHN));
   }
-  
+
 }
